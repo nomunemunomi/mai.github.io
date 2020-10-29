@@ -1,0 +1,46 @@
+@media (max-width: 1000px){
+ .icon{
+   width: 50%;
+   margin-bottom: 50px;
+ }
+
+ .top h1{
+   font-size: 32px;
+ }
+
+ .top p{
+   font-size: 20px;
+ }
+
+}
+
+@media (max-width: 670px ){
+  .icon{
+    width: 100%;
+  }
+
+  .btn{
+    width: 100%;
+  }
+
+  .twitter{
+    margin-bottom: 10px;
+  }
+
+  .facebook{
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper{
+    float:left;
+  }
+
+  .top h1{
+    font-size: 24px;
+  }
+
+  .top p{
+    font-size: 14px;
+  }
+
+}
