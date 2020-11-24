@@ -33,7 +33,7 @@ a {
 
 .top-wrapper{
           height:500px;
-          background-image:url(https://lh3.googleusercontent.com/FV2LzEYgP9vQFPDlt-G7PbmTJ5_xN6ntAul0pdUF3X8OLCmnXCIPimCdCedHVvFV0nn6Fd_hp6mCjdavX4u1xpdp3oqQn3HCTH4iTnEJr5UBgcUDizDd9z_2F_b_UHvCpDcgR0gga4Ur17ZCaikffcmGSkGi6zY-A8sZrCwF5xFDX4ljAKk1QL0YNGi2HaquRVXrqb4lzB0n9JEL0hRPKj9ZwmhUMtkYO1qHcJCc4hkA6VZEq96KID8E65ixsOIlzMj61YEyXapyoPv6VlJjJMVbUYrpG-GlgVRrBDCa_kXhzCpeavQ1Q4JEiWxT9uNa8BOiaYt6BA3-8p4Ob9pWS8ZPeE0OGnk_1lxK1VaNZ2aXCR8j0MMYSX2k1F75yKrur9wlpL9ADt6p6LUcU26Y3VuO27UHk3bic3UafGojvWIbEb-6SaEVPN1_M028EcfCcWC38QYRxtqQCGLkY6KTVTBLaHhkaoPI-G3GG7PuywHw8IETi3o7WY0oPoxLjdbmo7bs2DyrQ2gwL9gC8jQ8huKOpH96TgZ9Zkua9JhKwhW3rB0bKOx38GvMzxx_fd_nJrRWb4Swahhw751iSlu7-LtKG_ybEYmaNl9NEJbeTZSHrC2p-MshIZHV0uwLCZYLxqDDFbOtuAR4nKU79o9DiMW3xUbVeVe2Trt8nJx2zQ-9i9PkGYg5lXfERyo4=w1073-h560-no?authuser=0);
+          background-image:url(img/profile1.jpg);
           background-position:center center;
           background-size: 100% 500px;
 }
@@ -126,6 +126,10 @@ height: 100%;
   display: inline-block;
   margin-right: 25px;
   opacity: 0.8;
+}
+
+.btn:hover{
+  opacity: 1;
 }
 
 .twitter{
